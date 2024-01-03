@@ -1,4 +1,4 @@
-<p style = 'align= center; rotate = 180deg' >
+<p style = "align= center; rotate = 180deg;" >
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
@@ -10,7 +10,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsilvaian&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dsilvaian&theme=nightowl)(https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dsilvaian&theme=nightowl)
 
 <h3 align="center">📜 Repo Stats:</h3>
 
