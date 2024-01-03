@@ -1,6 +1,6 @@
 
 <h3 align="center">Hi there, I'm Ian D'silva 👋</h3> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&rotate=180deg"/>
 <p>I'm a Data guy with a passion for Python, Web Development, and exploring new tools and technologies in the data field.<p>
 
 <h3 align="center">📈 GitHub Stats</h3> 
