@@ -17,6 +17,10 @@
 
 |--|--|--|
 
+ |  ![Ian Noella's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsilvaian&show_icons=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dsilvaian&theme=nightowl)](https://git.io/streak-stats)     |
+| --- | --- | 
+
+
 <h3 align="center">📜 Repo Stats:</h3>
 
 ![Alt](https://repobeats.axiom.co/api/embed/b21379ce809929d18a17f2f2727bdd6ee03c30a7.svg "Repobeats analytics image")
