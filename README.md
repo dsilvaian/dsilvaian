@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi there, I'm Ian D'silva 👋</h3> 
+<h3 align="center" margin="0!important">Hi there, I'm Ian D'silva 👋</h3> 
 <p align= "center" >
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60"/>
 </p>
