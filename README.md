@@ -3,7 +3,7 @@
 <p align= "center" >
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60"/>
 </p>
-<p margin = 0!important;>I'm a Data guy with a passion for Python, Web Development, and exploring new tools and technologies in the data field.<p>
+<b>I'm a Data guy with a passion for Data Science, Cloud Technology and Web Development. I am currently exploring new tools and technologies in the data field.</b>
 
 <h3 align="center">📈 GitHub Stats</h3> 
 
