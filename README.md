@@ -9,17 +9,8 @@
 
 <h3 align="center">📈 GitHub Stats</h3> 
 
-| ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsilvaian&show_icons=true&theme=radical) |
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsilvaian&layout=compact&theme=radical) |
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dsilvaian&theme=nightowl)(https://git.io/streak-stats) |
-
-|--|--|--|
-
 |  ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsilvaian&show_icons=true&theme=nightowl) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dsilvaian&theme=nightowl)](https://git.io/streak-stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsilvaian&layout=compact&theme=radical) |
 | --- | --- | --- | 
-
 
 <h3 align="center">📜 Repo Stats:</h3>
 
