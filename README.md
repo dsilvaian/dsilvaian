@@ -1,19 +1,15 @@
 
 <h3 align="center">Hi there, I'm Ian D'silva 👋</h3> 
-<p style = "align= center; rotate = 180deg; margin = 0!important;" >
+<p align= "center" >
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60"/>
 </p>
 <p margin = 0!important;>I'm a Data guy with a passion for Python, Web Development, and exploring new tools and technologies in the data field.<p>
 
 <h3 align="center">📈 GitHub Stats</h3> 
-<p width = 100%>
 
 |  ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsilvaian&show_icons=true&theme=nightowl) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dsilvaian&theme=nightowl)](https://git.io/streak-stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsilvaian&layout=compact&theme=radical) |
 | --- | --- | --- | 
   
-</p>
-
-
 
 <h3 align="center">📜 Repo Stats:</h3>
 
